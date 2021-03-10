@@ -3,9 +3,8 @@ import BrandHeader from './components/BrandHeader/BrandHeader';
 import Login from './components/Pages/Login';
 import Home from './components/Pages/Home';
 import Todo from './components/Pages/Todo/Todo';
-
-import { BrowserRouter as Router, Route, Switch} from 'react-router-dom';
 import Footer from './components/Footer/Footer';
+import { BrowserRouter as Router, Route, Switch} from 'react-router-dom';
 
 
 function App() {
